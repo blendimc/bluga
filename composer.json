@@ -1,0 +1,17 @@
+{
+    "name": "blendimc/bluga",
+    "description": "A Composer Wrapper for the Bluga Screenshot API",
+    "authors": [
+        {
+            "name": "BlendIMC",
+            "email": "marc@blendimc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+     "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
